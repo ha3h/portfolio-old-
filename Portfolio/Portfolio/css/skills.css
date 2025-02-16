@@ -1,0 +1,93 @@
+body, html {
+  height: 100%;
+  width: 100%;
+  font-size: 12px;
+  overflow-x: hidden;
+  background-color: rgb(300, 300, 300);
+}
+
+.parallax {
+  /* The image used */
+  background-image: url("/pics/stars.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: fixed;
+  top: 0%;
+  width: 100%;
+  z-index: 1;
+  overflow-y: scroll;
+  overflow-x: hidden;
+
+  
+}
+.goof {
+background-image: linear-gradient(#061036, #100b36);
+font-size:36px;
+z-index: 2;
+font-family: 'Times New Roman';
+color: white;
+  /*font change needed*/
+}
+.pic {
+height: 50%;
+width: 100%;
+background-color: transparent;
+z-index: 3;
+margin-top: 75%;
+}
+h1 {
+font-size: 100px;
+color: white;
+}
+h2 {
+font-size: 50px;
+}
+h5 {
+font-size: 44px;
+}
+footer {
+font-size: 10px;
+}
+
+.linktray {
+color: white;
+top: 50%;
+z-index: 0;
+position: center;
+}
+.lt1 {
+font-size: 56px;
+transition: 0.5s;
+}
+.lt1:hover {
+font-size: 58px;
+transition: 0.5s;
+}
+
+a {
+color: white;
+text-decoration: none;
+transition: 0.5s;
+margin-bottom: above;
+}
+a:hover {
+color: lavender;
+text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+transition: 0.5s
+}
+
+.pic2 {
+  height: 300px;
+  width: 300px;
+  border: 5px solid #f6f8ff; /*color pallete*/
+  border-radius: 10px; /*rounded borders*/
+  padding: 0px;
+  transition: 2s;
+}

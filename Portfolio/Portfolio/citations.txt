@@ -1,0 +1,27 @@
+Title: <CSS background-image Property>
+*	Author: <n/a>
+*	Date: <n/a>
+*	Code version: <css>
+*	Availability: <https://www.w3schools.com/cssref/pr_background-image.php>
+
+Title: <How TO - Parallax Scrolling>
+*	Author: <n/a>
+*	Date: <n/a>
+*	Code version: <css>
+*	Availability: <https://www.w3schools.com/howto/howto_css_parallax.asp>
+
+Title: <How to set cell padding in HTML?>
+*	Author: <Lokesh Badavath>
+*	Date: <11/18/22>
+*	Code version: <html, css>
+*	Availability: <
+https://www.tutorialspoint.com/How-to-set-cell-padding-in-HTML>
+
+Title: <Outline effect to text>
+*	Author: <n/a>
+*	Date: <6/1/11>
+*	Code version: <css>
+*	Availability: <
+https://stackoverflow.com/questions/4919076/outline-effect-to-textdwq>
+
+no color palette; every page has a different color scheme based off background
